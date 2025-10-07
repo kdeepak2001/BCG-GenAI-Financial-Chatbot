@@ -115,15 +115,19 @@ jupyter notebook task-1.ipynb
 Try these questions with the chatbot:
 
 🤔 Your question: What is Microsoft's revenue in 2024?
+
 🤖 Answer: ✅ Microsoft's Total Revenue in 2024: $245,122 million
 
 🤔 Your question: What is Tesla's net income in 2023?
+
 🤖 Answer: ✅ Tesla's Net Income in 2023: $14,997 million
 
 🤔 Your question: What are Apple's assets in 2024?
+
 🤖 Answer: ✅ Apple's Total Assets in 2024: $364,980 million
 
 🤔 Your question: exit
+
 🤖 Answer: Thank you for using the Financial Chatbot! Goodbye! 👋
 
 ---
